@@ -46,7 +46,7 @@ This sample demonstrates how to perform editing operations in the Syncfusion Bla
 ## Support and Feedback
 - For general product questions, visit the [Syncfusion Community Forum](https://www.syncfusion.com/forums) or [Syncfusion Support](https://www.syncfusion.com/support).
 - To report an issue specific to this sample, open a GitHub issue in this repository.
-- Full documentation on Blazor DataGrid globalization and localization: https://blazor.syncfusion.com/documentation/datagrid/global-local
+- Full documentation on Blazor DataGrid globalization and localization: https://help.syncfusion.com/grid-sdk/blazor/data-grid/global-local
 
 ## License
-This is a Syncfusion sample project provided to demonstrate product usage. Review the [Syncfusion license terms](https://www.syncfusion.com/sales/teamlicense) before using Syncfusion components in your own applications.
+This is a Syncfusion sample project provided to demonstrate product usage. Review the [Syncfusion license terms](https://www.syncfusion.com/sales/pricing?category=ui-components) before using Syncfusion components in your own applications.
