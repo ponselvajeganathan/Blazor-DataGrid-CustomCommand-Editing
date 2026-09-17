@@ -22,10 +22,11 @@ This sample demonstrates how to perform editing operations in the Syncfusion Bla
 
 ## Prerequisites
 
-- Visual Studio 2022 or later
-- .NET SDK compatible with the project's target framework
+- Visual Studio 2022 or later oror Visual Studio Code
 
 ## How to Run the Project
+
+**Visual Studio 2022**
 
 1. Clone or download this repository to your local machine.
 2. Open `CustomCommandEditing.sln` in Visual Studio 2022.
@@ -38,6 +39,17 @@ This sample demonstrates how to perform editing operations in the Syncfusion Bla
    - Click **Delete** to remove a row.
    - Click **Save** to commit changes.
    - Click **Cancel** to discard changes.
+
+**Visual Studio Code**
+
+1. Open the repository folder in Visual Studio Code.
+2. Open the integrated terminal.
+3. Navigate to the project directory.
+
+```bash
+dotnet restore
+dotnet run
+```
 
 ## Project Structure
 
